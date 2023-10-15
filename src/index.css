@@ -1,0 +1,16 @@
+/* 
+At Scrimba, we always want our challenges to look fresh, and not use the
+default browser styling, so add a little bit of styling to the app.
+
+It's ok if you want to modify the HTML slightly to make your styling work better
+
+NOTE: this must be done BEFORE you start recording, as the students should only
+write React/JS code in their solutions, not any CSS
+*/
+
+body { }
+
+p {
+    font-size: 11px;
+    margin-top: 30px;
+}
